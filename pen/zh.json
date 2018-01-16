@@ -1,6 +1,6 @@
 {
     "pen.setColor": {
-        "message": "set pen color to [COLOR]",
+        "message": "画笔的颜色设置为[COLOR]",
         "description": "set the pen color to a particular (RGB) value"
     },
     "pen.setColorParam": {

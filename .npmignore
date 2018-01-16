@@ -1,2 +1,4 @@
 # transifex
 /.tx
+.gitigone
+/node_modules
